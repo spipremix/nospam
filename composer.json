@@ -1,0 +1,14 @@
+{
+    "name": "spipremix/nospam",
+    "homepage": "https://contrib.spip.net/NoSPAM,1165",
+    "description": "Limiter le risque de spams dans les forums",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Cédric Morin",
+            "email": "cedric@yterium.net"
+        }
+    ],
+    "require": {}
+}
